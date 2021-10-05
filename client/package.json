@@ -1,7 +1,6 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "http://prajaktapatilweb.github.io/1to1guru",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^1.6.7",
@@ -14,6 +13,7 @@
     "bootstrap": "^5.1.1",
     "formik": "^2.2.9",
     "framer-motion": "^4.1.17",
+    "gh-pages": "^3.2.3",
     "headroom.js": "^0.12.0",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.3",
@@ -31,6 +31,8 @@
     "yup": "^0.32.9"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
