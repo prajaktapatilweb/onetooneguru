@@ -16,12 +16,12 @@ const port = process.env.PORT || 3001;
 app.use(cors());
 app.use(express.json());
 //Local Host
-const db = mysql.createConnection({
-    user: "root",
-    host: "localhost",
-    password: "",
-    database: "onetooneguru"
-});
+// const db = mysql.createConnection({
+//     user: "root",
+//     host: "localhost",
+//     password: "",
+//     database: "onetooneguru"
+// });
 app.use(express.static(path.join(__dirname, 'client/build')));
 app.post("/registerteacher", (req, res) => {
     const id = '';
