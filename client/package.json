@@ -1,7 +1,6 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "http://1to1guru.com/reactweb",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^1.6.7",
