@@ -22,6 +22,12 @@ app.use(express.json());
 //     password: "",
 //     database: "onetooneguru"
 // });
+const db = mysql.createConnection({
+    user: "be694c9f8bbc78",
+    host: "eu-cdbr-west-01.cleardb.com",
+    password: "539a63d6",
+    database: "heroku_9a2220a1fb095c6"
+});
 app.use(express.static(path.join(__dirname, 'client/build')));
 app.post("/registerteacher", (req, res) => {
     const id = '';
