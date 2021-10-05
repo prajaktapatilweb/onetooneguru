@@ -46,7 +46,7 @@ export default function Contactus() {
                                         <div style={{ marginLeft: "75px" }}>
                                             <h5> <b> 
                                                 Mobile Number: </b> </h5>
-                                            <p ><a href={`tel:+91-${contactdetail.contactno}`}> {contactdetail.contactno}</a></p>
+                                            <p ><a href={`tel:${contactdetail.contactno}`}> {contactdetail.contactno}</a></p>
                                         </div>
                                     </Col>
 
