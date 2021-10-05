@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/1to1guru/static/css/main.ba85b0f7.chunk.css",
+    "main.js": "/1to1guru/static/js/main.da1cd19d.chunk.js",
+    "main.js.map": "/1to1guru/static/js/main.da1cd19d.chunk.js.map",
+    "runtime-main.js": "/1to1guru/static/js/runtime-main.b0270ef3.js",
+    "runtime-main.js.map": "/1to1guru/static/js/runtime-main.b0270ef3.js.map",
+    "static/css/2.81bb7e76.chunk.css": "/1to1guru/static/css/2.81bb7e76.chunk.css",
+    "static/js/2.b9e671d1.chunk.js": "/1to1guru/static/js/2.b9e671d1.chunk.js",
+    "static/js/2.b9e671d1.chunk.js.map": "/1to1guru/static/js/2.b9e671d1.chunk.js.map",
+    "index.html": "/1to1guru/index.html",
+    "static/css/2.81bb7e76.chunk.css.map": "/1to1guru/static/css/2.81bb7e76.chunk.css.map",
+    "static/css/main.ba85b0f7.chunk.css.map": "/1to1guru/static/css/main.ba85b0f7.chunk.css.map",
+    "static/js/2.b9e671d1.chunk.js.LICENSE.txt": "/1to1guru/static/js/2.b9e671d1.chunk.js.LICENSE.txt",
+    "static/media/1to1-img1.webp": "/1to1guru/static/media/1to1-img1.cd630a49.webp",
+    "static/media/1to1-img2.webp": "/1to1guru/static/media/1to1-img2.2ba79763.webp",
+    "static/media/1to1-img3.webp": "/1to1guru/static/media/1to1-img3.6838a542.webp",
+    "static/media/Mubarak-Mujawar.jpeg": "/1to1guru/static/media/Mubarak-Mujawar.b7d38a30.jpeg",
+    "static/media/App.css": "/1to1guru/static/media/mission.7ea2f1b6.png",
+    "static/media/font-awesome.min.css": "/1to1guru/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo-t.png": "/1to1guru/static/media/logo-t.afa4bcd6.png",
+    "static/media/nucleo.css": "/1to1guru/static/media/nucleo-icons.d6a66724.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0270ef3.js",
+    "static/css/2.81bb7e76.chunk.css",
+    "static/js/2.b9e671d1.chunk.js",
+    "static/css/main.ba85b0f7.chunk.css",
+    "static/js/main.da1cd19d.chunk.js"
+  ]
+}
